@@ -12,8 +12,8 @@ header {
 
 section {
     background: rgb(170, 14, 209);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
     display: flex;
     justify-content: center;
     color: black;
