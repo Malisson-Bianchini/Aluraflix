@@ -6,7 +6,7 @@ body {
 
 header {
     border-bottom: solid 2px rgb(132, 10, 163);
-    padding: 50px;
+    padding: 20px;
     font-size: 60px;
 }
 
@@ -20,5 +20,5 @@ section {
 }
 
 .chamada-texto {
-    margin-right: 20%;
+    margin-right: 5%;
 }
